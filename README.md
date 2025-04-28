@@ -51,8 +51,8 @@ README.md               # Explicação de funcionamento da app
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-gerenciamento-produtos.git
-cd projeto-gerenciamento-produtos
+git clone https://github.com/thiagokelly/xpe-desf5-api-crud.git
+cd xpe-desf5-api-crud
 ```
 
 ### 2. Criar e ativar o ambiente virtual
